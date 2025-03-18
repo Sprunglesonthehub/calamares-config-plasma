@@ -386,7 +386,7 @@ QProgressBar {
 }
 
 QProgressBar::chunk {
-	background-color: #58B2D7;
+	background-color: #808080;
 }
 
 #debugButton {

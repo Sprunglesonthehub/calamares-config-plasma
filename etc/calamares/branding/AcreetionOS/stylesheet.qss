@@ -102,21 +102,21 @@ QPushButton#aboutButton { qproperty-icon: url(:/data/images/release.svg); }
 /* Package/Module Selection Styles */
 QTreeView {
     font-size: 18pt;
-    color: #000000;         /* Text color */
+    color: #FFFFFF;         /* Text color */
     padding: 5px;
     margin: 2px;
 }
 
 QListView {
     font-size: 18pt;
-    color: #000000;         /* Text color */
+    color: #FFFFFF;         /* Text color */
     padding: 5px;
     margin: 2px;
 }
 
 QComboBox {
     font-size: 18pt;
-    color: #000000;         /* Text color */
+    color: #FFFFFF;         /* Text color */
     padding: 5px;
     margin: 2px;
 }
