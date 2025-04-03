@@ -1,3 +1,7 @@
+# RETIRED REPOSITORY
+I am no longer working on AcreetionOS. Moved on to AuraOS.
+
+
 # calamares-config
 
 # AcreetionOS Calamares Configuration & Boot Fix
